@@ -1,0 +1,2 @@
+{"command": "SOFT_REG_W", "L1_id": 0, "n_params": 1, "params": [65535, 65535]}
+

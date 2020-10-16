@@ -1,0 +1,317 @@
+["SOFT_REG_R",0,[1]]
+["SOFT_REG_W",0,[4,5]]
+["SOFT_REG_R",0,[1]]
+["SOFT_REG_W",0,[4,5]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_R",0,[0]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_W",0,[0,0]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_W",0,[0,0]]
+["SOFT_REG_W",0
+["SOFT_REG_W",0,[0,0]]
+["SOFT_REG_W",0,[2,1]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_W",0,[1,1]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_R",0,[0]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_W",0,[1,1]]
+["SOFT_REG_W",0,[2,1]]
+["SOFT_REG_R",0,[0]]
+["SOFT_REG_W",0,[0,1]]
+["SOFT_REG_R",0,[0]]
+["SOFT_REG_W",0,[1,1]]
+["SOFT_REG_W",0,[2,1]]
+["SOFT_REG_W",0,[3,1]]
+["SOFT_REG_W",0,[4,1]]
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_W",0,[4,1]]
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_W",0,[4,1]]
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_W",0,[4,1]]
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_W",0,[4,1]]
+["SOFT_REG_R",0,[4]]
+run run1.txt
+["SOFT_REG_R",0,[4]]
+run run1.txt
+["SOFT_REG_R",0,[4]]
+run run1.txt
+run1.txt
+"run run1.txt"
+["SOFT_REG_R",0,[4]]
+"run run1.txt"
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_R",0,[0x00000000]]
+["SOFT_REG_W",0,[0x00010007,1]]
+["SOFT_REG_R",0,[0x00010007]]
+"run run1.txt"
+["SOFT_REG_R",0,[0x00010007]]
+["SOFT_REG_W",0,[0x00010007,1]]
+["SOFT_REG_R",0,[0x00010007]]
+["SOFT_REG_W",0,[0x00010007,1]]
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+["SOFT_REG_W",0,[0x00010007,1]]
+["SOFT_REG_R",0,[0x00010007]]
+["SOFT_REG_W",0,[0x00010007,0]]
+["SOFT_REG_W",0,[0x00010007,1]]
+["SOFT_REG_W",0,[0x00010007,0]]
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+["SOFT_REG_W",0,[0x00010007,0]]
+"run run1.txt"
+["SOFT_REG_W",0,[0x00010007,0]]
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+["SOFT_REG_W",0,[0x00010007,0]]
+["SOFT_REG_R",0,[0x00010007]]
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+["SOFT_REG_R",0,[0x00010007]]
+["SOFT_REG_R",0,[0x00010006]]
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+"run run1.txt"
+"run run2.txt"
+["SOFT_REG_R",0,[0]]
+["SOFT_REG_R",0,[1]]
+["SOFT_REG_R",0,[2]]
+["SOFT_REG_R",0,[3]]
+["SOFT_REG_R",0,[4]]
+["SOFT_REG_R",0,[5]]
+["SOFT_REG_R",0,[6]]
+["SOFT_REG_R",0,6]
+["SOFT_REG_R",0,[6]]
+"run encien.txt"
+"run enciende_LEDS.txt"
+"run apaga_LEDS.txt"
+"run enciende_LEDS.txt"
+"run apaga_LEDS.txt"
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_R", 0, [0x00000000] ]
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+"run enciende_LEDS.txt"
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_W", 0, 2,[0x00010006, 1] ]
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+["SOFT_REG_R", 0, [0x00010006] ]
+"run enciende_LEDS.txt"
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+"run apaga_LEDS.txt"
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+"run apaga_LEDS.txt"
+["SOFT_REG_R", 0, [0x00010006] ]
+["SOFT_REG_W", 0, [0x00010006, 1] ]
+["SOFT_REG_W", 0, [0x00010000, 1] ]
+["SOFT_REG_W", 0, [0x00010000, 65535] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 65535] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 65535] ]
+["SOFT_REG_W", 0, [0x00010000, 4294967295] ]
+["SOFT_REG_W", 0, [0x00010000, 4294967295]]
+["SOFT_REG_W", 0, [0x00010000, 4294967295] ]
+["SOFT_REG_W", 0, [0x00010000, 4000000000] ]
+["SOFT_REG_W", 0, [0x00010000, 2000000000] ]
+["SOFT_REG_W", 0, [0x00010000, 268435455] ]
+["SOFT_REG_W", 0, [0x00010000, 0xFFFFFFFF] ]
+["SOFT_REG_W", 0, [0x00010000, 0x0FFFFFFF] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x0FFFFFFF] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x0FFFFFFF] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x000000000] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00010000] ]
+["SOFT_REG_R", 0, [0x00010001] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00000000] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00020001] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+run apaga_LEDS.txt
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00020001] ]
+["SOFT_REG_R", 0, [0x00020002] ]
+["SOFT_REG_R", 0, [0x00020012] ]
+["SOFT_REG_R", 0, [0x00020008] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00020008] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00020008] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["SOFT_REG_R", 0, [0x0002000A] ]
+["SOFT_REG_R", 0, [0x0002000B] ]
+["SOFT_REG_R", 0, [0x0002000C] ]
+["SOFT_REG_R", 0, [0x0002000D] ]
+["SOFT_REG_R", 0, [0x0002000E] ]
+["SOFT_REG_R", 0, [0x0002000F] ]
+["SOFT_REG_R", 0, [0x00020004] ]
+["SOFT_REG_R", 0, [0x00020000] ]
+["SOFT_REG_R", 0, [0x00020001] ]
+["SOFT_REG_R", 0, [0x00020008] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["SOFT_REG_R", 0, [0x0002000a] ]
+["SOFT_REG_R", 0, [0x0002000b] ]
+["SOFT_REG_R", 0, [0x0002000c] ]
+["SOFT_REG_R", 0, [0x00020004] ]
+["HARD_REG_W", 0, [0x0002000A] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+run apaga_LEDS.txt
+["HARD_REG_W", 0, [0x0002000A] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+["SOFT_REG_W", 0, [0x00010000, 0x00FFFFFF] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+["HARD_REG_W", 0, [0x00010000, 0x0003FF00] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+["SOFT_REG_W", 0, [0x00010000, 0xFFFFFFFF] ]
+["SOFT_REG_W", 0, [0x00010000, 0x7FFFFFFF] ]
+["SOFT_REG_W", 0, [0x00010000, 0xFFFFFFFF] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0x20030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0x20030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0x40030FF0] ]
+["HARD_REG_R", 0, [0x00010001] ]
+["HARD_REG_W", 0, [0x00020000, 0x2000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x00000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_R", 0, [0x00020002] ]
+["HARD_REG_W", 0, [0x00020001, 0x00008101] ]
+["HARD_REG_W", 0, [0x00020001, 0x10008101] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008101] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00010000, 0x20030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0x40030FF0] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00030000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_R", 0, 0x00010000 ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010000] ]
+run Test_Main.txt
+["SOFT_REG_R", 0, [0x00020008] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["SOFT_REG_R", 0, [0x00020001] ]
+["SOFT_REG_R", 0, [0x00020009] ]
+["HARD_REG_R", 0, [0x00010000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC00300FF] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+["HARD_REG_W", 0, [0x00010000, 0x2003FF00] ]
+["HARD_REG_W", 0, [0x00010000, 0xC003FF00] ]
+["HARD_REG_R", 0, [0x00030002] ]
+["HARD_REG_R", 0, [0x00030001] ]
+["HARD_REG_W", 0, [0x00030000, 0x20000000] ]
+["HARD_REG_R", 0, [0x00030001] ]
+["HARD_REG_W", 0, [0x00030000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00030000, 0x20000001] ]
+["HARD_REG_R", 0, [0x00030001] ]
+["HARD_REG_W", 0, [0x00030000, 0x00000000] ]
+["HARD_REG_R", 0, [0x00030001] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008700] ]
+["HARD_REG_W", 0, [0x00030000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00030000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00010000, 0x0003FF00] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020000, 0x40000000] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+["HARD_REG_R", 0, [0x00010001] ]
+["HARD_REG_W", 0, [0x00010000, 0xC0030FF0] ]
+run Test_Main.txt
+["SOFT_REG_W", 0, [0x00010000, 0x0] ]
+run Test_Main.txt
+["HARD_REG_W", 0, [0x00010000, 0x00030FF0] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008700] ]
+["HARD_REG_W", 0, [0x00010000, 0x0003FF00] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008711] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008700] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+["HARD_REG_W", 0, [0x00020001, 0x80008711] ]
+["HARD_REG_W", 0, [0x00020000, 0x20000000] ]
+run script.txt
+run Test_Main.txt
+["HARD_REG_W", 0, [0x00020001, 0x80008711] ]
+run Test_Main.txt
+run script.txt
+["HARD_REG_W", 0, ["0x00020001", "0x80008711"] ]
+["HARD_REG_W", 0, ["0x00040000", "0x8B930EE6"] ]

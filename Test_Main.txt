@@ -1,0 +1,4 @@
+{"command": "SOFT_REG_W", "L1_id": 0, "n_params": 1, "params": ["0x00010000", "0xFFFFFFFF"]}
+{"command": "SOFT_REG_W", "L1_id": 0, "n_params": 1, "params": ["0x00010000", "0x0"]}
+
+
